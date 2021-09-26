@@ -41,7 +41,8 @@ const Team = () => {
             <div className="col-md-3 bg-dark">
                 {/* There will be show data on click */}
                
-                <Board
+                <Board 
+               
                 board={board}
                 ></Board>
             </div>
